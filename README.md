@@ -1,5 +1,6 @@
 # API de Productos y Categorías - Lab08
 
+# AUTOR: Bellido Rony
 Proyecto Spring Boot para el Laboratorio 08. Expone una API REST para gestionar productos y categorías con persistencia en MySQL, validaciones con DTO, manejo global de excepciones y pruebas unitarias/integración automatizadas con H2.
 
 ## Características
